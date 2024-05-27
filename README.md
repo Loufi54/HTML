@@ -1,41 +1,41 @@
-# Weather Website
+# Situs Cuaca
 
-Welcome to our Weather Website! Stay updated with the latest weather forecasts and conditions.
+Selamat datang di Situs Cuaca kami! Tetap terkini dengan perkiraan cuaca terbaru dan kondisi cuaca.
 
-## About
+## Tentang
 
-This website provides real-time weather information for various locations around the world. You can check the current temperature, humidity, wind speed, and more.
+Situs web ini menyediakan informasi cuaca real-time untuk berbagai lokasi di seluruh dunia. Anda dapat memeriksa suhu saat ini, kelembaban, kecepatan angin, dan lainnya.
 
-## Features
+## Fitur
 
-- Real-time weather updates
-- Hourly and daily forecasts
-- Customizable location search
-- Interactive maps
+- Pembaruan cuaca real-time
+- Perkiraan cuaca per jam dan per hari
+- Pencarian lokasi yang dapat disesuaikan
+- Peta interaktif
 
-## Technologies Used
+## Teknologi yang Digunakan
 
 - HTML
 - CSS
 - JavaScript
-- API integration (e.g., OpenWeatherMap)
+- Integrasi API (misalnya, OpenWeatherMap)
 
-## Usage
+## Penggunaan
 
-1. Clone the repository.
-2. Open `index.html` in your web browser.
-3. Enter your location to get the weather forecast.
+1. Clone repositori.
+2. Buka `index.html` di peramban web Anda.
+3. Masukkan lokasi Anda untuk mendapatkan perkiraan cuaca.
 
-## Credits
+## Kredit
 
-- Developed by [WeatherMap]
-- Weather data provided by [OpenWeatherMap](https://openweathermap.org/)
-- Icons by [Flaticon](https://www.flaticon.com/)
+- Dikembangkan oleh [Noob Coding]
+- Data cuaca disediakan oleh [OpenWeatherMap](https://openweathermap.org/)
+- Ikon oleh [Flaticon](https://www.flaticon.com/)
 
-## License
+## Lisensi
 
-This project is licensed under the [MIT License](LICENSE).
+Proyek ini dilisensikan di bawah [Lisensi MIT](LICENSE).
 
 ---
 
-© 2024 Copyright by Loufi Libra. All rights reserved
+© 2024
