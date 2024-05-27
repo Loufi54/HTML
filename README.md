@@ -28,7 +28,7 @@ This website provides real-time weather information for various locations around
 
 ## Credits
 
-- Developed by [Your Name]
+- Developed by [WeatherMap]
 - Weather data provided by [OpenWeatherMap](https://openweathermap.org/)
 - Icons by [Flaticon](https://www.flaticon.com/)
 
